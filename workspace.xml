@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26d3c31c-746a-4583-9f51-f2e1b448de45" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BGWYormnwOrp3c0eyedHboCGfU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Проекты/SiteFinal/www/zhuravkov.fortest.org/bitrix/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Проекты\SiteFinal\www\zhuravkov.fortest.org\bitrix\components" />
+      <recent name="E:\Проекты\SiteFinal\www\zhuravkov.fortest.org\local\templates\first\components\bitrix\news\Test_2\lang\ru" />
+      <recent name="E:\Проекты\SiteFinal\www\zhuravkov.fortest.org\local\templates\first\components\bitrix\catalog\CatalogDefault\bitrix" />
+      <recent name="E:\Проекты\SiteFinal\www\zhuravkov.fortest.org\local\templates\first\components\bitrix\catalog\catalog\bitrix\catalog.section" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Проекты\SiteFinal\www\zhuravkov.fortest.org\local\templates\first\components\bitrix" />
+      <recent name="E:\Проекты\SiteFinal\www\zhuravkov.fortest.org\local" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name=".settings.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://192.168.100.3/www/zhuravkov.fortest.org/bitrix/.settings.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug..settings.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d3c31c-746a-4583-9f51-f2e1b448de45" name="Changes" comment="" />
+      <created>1656532952526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656532952526</updated>
+      <workItem from="1656532954022" duration="1574000" />
+      <workItem from="1656579847041" duration="123708000" />
+      <workItem from="1657463791496" duration="47285000" />
+      <workItem from="1657699888340" duration="16834000" />
+      <workItem from="1657786330146" duration="23117000" />
+      <workItem from="1657885000626" duration="12039000" />
+      <workItem from="1657970854528" duration="14643000" />
+      <workItem from="1658143041141" duration="7844000" />
+      <workItem from="1658230632298" duration="55200000" />
+      <workItem from="1658579584148" duration="15994000" />
+      <workItem from="1658832937440" duration="41481000" />
+      <workItem from="1659628257790" duration="34000000" />
+      <workItem from="1660565443869" duration="43000" />
+      <workItem from="1660566002196" duration="144000" />
+      <workItem from="1660572599323" duration="11000" />
+      <workItem from="1660572649910" duration="11000" />
+      <workItem from="1660573055992" duration="7779000" />
+      <workItem from="1660663760628" duration="64763000" />
+      <workItem from="1661446113306" duration="2928000" />
+      <workItem from="1662723576682" duration="30950000" />
+      <workItem from="1690487848069" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
